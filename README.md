@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satish Somarouthu</h1>
 <h3 align="center">Passionate about Artificial Intelligence, UX design.</h3>
 
-- Built a legal document retrieval system using Langchain and Chroma DB, enabling fast and accurate searches through large legal databases. • Integrated AI-powered case summaries by applying Retrieval-Augmented Generation (RAG), optimizing OpenAI models for domain-specific legal document analysis. • Enhanced search relevance through tailored prompt engineering techniques, ensuring precise extraction of legal precedents and key insights from case law. **Legal document retreival system**
+- current project : Building a legal document retrieval system using Langchain and Chroma DB, enabling fast and accurate searches through large legal databases. • Integrated AI-powered case summaries by applying Retrieval-Augmented Generation (RAG), optimizing OpenAI models for domain-specific legal document analysis. • Enhanced search relevance through tailored prompt engineering techniques, ensuring precise extraction of legal precedents and key insights from case law. **Legal document retreival system**
 
 - 🌱 I’m currently learning **specialisation on Unsupervised learning in ML.**
 
