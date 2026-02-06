@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 🤝 I’m looking for help with **Web- scraping techniques**
-
 - 📫 How to reach me **satishraj799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
