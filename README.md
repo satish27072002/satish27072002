@@ -4,7 +4,7 @@
 - current project : CodeGraph Navigator: a Graph RAG system that helps developers understand large 
 codebases by using neo4j's style implementation of GraphRag. Unlike traditional vector RAG which treats code chunks 
 independently, Graph RAG captures the structural relationships between functions, 
-classes, and modules—enabling queries like "what breaks if I change this function?" 
+classes, and modules, enabling queries like "what breaks if I change this function?" 
 and "how does authentication flow through the system?"
 
 - 🌱 I’m currently learning **Agentic AI**
