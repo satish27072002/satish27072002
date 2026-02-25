@@ -6,8 +6,7 @@ The system lets an LLM plan what to search within approved subreddits, matches p
 Qualified leads (username, links, trigger excerpt, matched events, confidence) are saved to Google Sheets for safe, manual outreach and future expansion to messaging and Facebook.
 
 - 🌱 I’m currently learning **Agentic AI**
-
--I need help with facebook web scraping.  
+- I need help with facebook web scraping.  
 
 - 📫 How to reach me **satishraj799@gmail.com**
 
