@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Satish Somarouthu</h1>
 <h3 align="center">Passionate about Artificial Intelligence, UX design.</h3>
 
-- current project : CodeGraph Navigator: a Graph RAG system that helps developers understand large 
-codebases by using neo4j's style implementation of GraphRag. Unlike traditional vector RAG which treats code chunks 
-independently, Graph RAG captures the structural relationships between functions, 
-classes, and modules, enabling queries like "what breaks if I change this function?" 
-and "how does authentication flow through the system?"
+- current project : AI powered targeted Marketing assistant: leveraging Firestore event inventory and RAG to dynamically identify high-intent Reddit users likely to attend upcoming events.
+The system lets an LLM plan what to search within approved subreddits, matches posts/comments to specific event IDs with evidence, and logs multi-event user interest.
+Qualified leads (username, links, trigger excerpt, matched events, confidence) are saved to Google Sheets for safe, manual outreach and future expansion to messaging and Facebook.
 
 - 🌱 I’m currently learning **Agentic AI**
+
+-I need help with facebook web scraping.  
 
 - 📫 How to reach me **satishraj799@gmail.com**
 
