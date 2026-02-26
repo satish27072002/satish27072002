@@ -3,7 +3,7 @@
 
 - current project : AI powered targeted Marketing assistant: leveraging Firestore event inventory and RAG to dynamically identify high-intent Reddit users likely to attend upcoming events.
 The system lets an LLM plan what to search within approved subreddits, matches posts/comments to specific event IDs with evidence, and logs multi-event user interest.
-Qualified leads (username, links, trigger excerpt, matched events, confidence) are saved to Google Sheets for safe, manual outreach and future expansion to messaging and Facebook.
+Qualified leads (username, links, trigger excerpt, matched events, confidence) are uoloaded on the dashboard and future expansion to messaging and Facebook.
 
 - 🌱 I’m currently learning **Agentic AI**
 - I need help with facebook web scraping.  
