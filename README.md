@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satish Somarouthu</h1>
-<h3 align="center">Passionate about Artificial Intelligence, UX design.</h3>
+<h3 align="center">Passionate about Artificial Intelligence, UI/UX design.</h3>
 
 - current project : AI powered targeted Marketing assistant: leveraging Firestore event inventory and RAG to dynamically identify high-intent Reddit users likely to attend upcoming events.
 The system lets an LLM plan what to search within approved subreddits, matches posts/comments to specific event IDs with evidence, and logs multi-event user interest.
